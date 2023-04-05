@@ -3,7 +3,7 @@
 <hr>
 
 ### Languages and tools:
-
+<div>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="blender" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="blender" width="40" height="40"/>
@@ -20,7 +20,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+</div>
 <hr>
 
 - 🔭 I’m currently working on a 2D Arena Rogue-Like Game on Unity
