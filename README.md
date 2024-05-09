@@ -1,7 +1,5 @@
 ## Hi I'm JariBou, a future game developer
 
-<hr>
-
 ### Languages and tools:
 <div>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/>
@@ -24,7 +22,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </div>
-<hr>
+
+</br>
 
 [![Compact Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JariBou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
