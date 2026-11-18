@@ -7,6 +7,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="premierepro" width="50" height="50"/>
 <br>
+<img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="godotengine" width="100" height="50"/>
+<br>
 <img src="https://simpleicons.org/icons/unity.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
@@ -27,8 +29,8 @@
 
 [![Compact Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JariBou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- ✒️ Maintaining a Unity package called [Graphics Labor](https://github.com/JariBou/GraphicsLabor) available on the [Unity Asset store](https://assetstore.unity.com/packages/tools/utilities/graphicslabor-274494)
-- 🔭 Working on a 2D Fighting Game and a 3D tower defense and city builder in Unity
+- ✒️ Authored a Unity package called [Graphics Labor](https://github.com/JariBou/GraphicsLabor) available on the [Unity Asset store](https://assetstore.unity.com/packages/tools/utilities/graphicslabor-274494)
+- 🔭 Working on a TCG using Godot .NET
 
 
 
